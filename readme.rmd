@@ -1,11 +1,11 @@
 #Genes involved in N-cycling in the soil
 
-|------:|
-Nitrification|Denitrifcication|Dissimilatory nitrate reduction|Assimilatory nitrate reduction|Anammox|Nitrogen fixation|Nitrogen metanolism|
-|amoA|
-|hao|
-|nxrAB|
-|narGHIJ|
-|napAB|
-|narB|
-|nasAB|
+- GS
+- amoA
+- hao
+- nxrAB
+- narGHIJ
+- napAB
+- narB
+- nasAB
+
